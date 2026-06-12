@@ -6,7 +6,7 @@ This repository contains the code for the master’s thesis studying how privacy
 The project compares logistic regression, gradient boosting, and DP-SGD under multiple privacy levels, and evaluates both model performance and business value using e-Profit.
 
 ## Dataset
-The dataset used in this project is uploaded in the repository / stored separately and is based on a real-world B2B telecom churn dataset.
+The dataset used in this project is uploaded in the repository / stored separately and is based on a real-world B2B telecom churn dataset (publicly available at https://data.mendeley.com/datasets/nrb55gr66h/1).
 
 ## How to run
 1. Install the required packages.
